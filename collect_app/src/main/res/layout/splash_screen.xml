@@ -26,10 +26,10 @@
         android:paddingBottom="5dip">
 
         <ImageView
-            android:layout_width="72dip"
-            android:layout_height="72dip"
+            android:layout_width="170dip"
+            android:layout_height="170dip"
             android:contentDescription="@string/app_name"
-            android:src="@drawable/notes" />
+            android:src="@drawable/sahra" />
 
         <LinearLayout
             android:layout_width="wrap_content"

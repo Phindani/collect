@@ -9,13 +9,13 @@
 
     <style name="Theme.Collect.BaseLight" parent="Theme.AppCompat.Light.NoActionBar">
         <!--Material theme attributes-->
-        <item name="colorPrimary">#E0E0E0</item>
+        <item name="colorPrimary">#f5f1f2</item>
         <item name="colorSecondary">#2196F3</item>
         <item name="colorError">@color/red_500</item>
 
         <item name="colorPrimaryVariant">?colorPrimary</item>
         <item name="colorSecondaryVariant">?colorSecondary</item>
-        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorSurface">#FFA500</item>
         <item name="colorOnPrimary">#000000</item>
         <item name="colorOnSecondary">#000000</item>
         <item name="colorOnBackground">#000000</item>

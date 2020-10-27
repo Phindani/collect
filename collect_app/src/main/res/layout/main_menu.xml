@@ -32,7 +32,7 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical"
                 android:visibility="gone"
-                custom:text="blah"
+                custom:text=""
                 custom:secondaryActionColor="true" />
             
             <androidx.fragment.app.FragmentContainerView
@@ -46,6 +46,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
                 android:paddingLeft="@dimen/margin_standard"
+               android:background="@color/myTextColor"
                 android:paddingTop="@dimen/margin_small"
                 android:paddingRight="@dimen/margin_standard"
                 android:paddingBottom="@dimen/margin_standard">
@@ -105,7 +106,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="@dimen/margin_standard"
-                    tools:text="commit sha" />
+                    tools:text="" />
             </LinearLayout>
         </LinearLayout>
     </ScrollView>
