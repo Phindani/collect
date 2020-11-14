@@ -34,7 +34,7 @@
                 android:visibility="gone"
                 custom:text=""
                 custom:secondaryActionColor="true" />
-            
+
             <androidx.fragment.app.FragmentContainerView
                 android:name="org.odk.collect.android.fragments.MapBoxInitializationFragment"
                 android:id="@+id/map_box_initialization_fragment"
